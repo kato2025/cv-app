@@ -1,0 +1,24 @@
+.general-info {
+    margin-bottom: 20px;
+  }
+  
+  .general-info input {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  
+  .general-info button {
+    display: block;
+    margin-top: 10px;
+  }
+  
+  input.numKids {
+    width: 80px;
+  } 
+
+  input.name, 
+  input.email, 
+  input.phone, 
+  input.married {
+    width: 160px;
+  }
